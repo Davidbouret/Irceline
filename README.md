@@ -25,4 +25,5 @@ As part of a data engineering assignment, this project aims to assist the Flemis
       ↓
 [ Dashboards & Analysis ]
 
+![image](https://github.com/user-attachments/assets/06bf3f26-a315-4eda-8731-81a39471be9e)
 
